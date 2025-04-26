@@ -9,8 +9,6 @@
  👩‍🎓 Estudante de Análise e Desenvolvimento de Sistemas pela UNINTER<br>
 
 
-<h2 align="left">Stats</h2>
-
 ###
 
 <div align="center">
